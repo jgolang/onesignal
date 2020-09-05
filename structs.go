@@ -1,4 +1,4 @@
-package jonesignal
+package onesignal
 
 // OSAddDeviceReq ...
 type OSAddDeviceReq struct {

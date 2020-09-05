@@ -1,4 +1,4 @@
-package jonesignal
+package onesignal
 
 import "testing"
 
